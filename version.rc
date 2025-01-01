@@ -1,0 +1,31 @@
+#include <winver.h>
+
+VS_VERSION_INFO VERSIONINFO
+FILEVERSION     1,0,0,0
+PRODUCTVERSION  1,0,0,0
+FILEFLAGSMASK   VS_FFI_FILEFLAGSMASK
+FILEFLAGS       0
+FILEOS          VOS__WINDOWS32
+FILETYPE        VFT_DLL
+FILESUBTYPE     0
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904E4"
+        BEGIN
+            VALUE "Comments",         "A library containing subject icons"
+            VALUE "CompanyName",      "Fer"
+            VALUE "FileDescription",  "A library containing subject icons"
+            VALUE "FileVersion",      "1.0.0.202501012037"
+            VALUE "InternalName",     "alpha-202501012037"
+            VALUE "LegalCopyright",   "Copyright (C) 2025 Fer_Amiya"
+            VALUE "OriginalFilename", "SubjectIcons.dll"
+            VALUE "ProductName",      "Subject Icons"
+            VALUE "ProductVersion",   "1.0.0.202501012037"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1252
+    END
+END
