@@ -25,6 +25,14 @@ Physics_High_4 ICON "SubjectIcons/Physics/4.ico"
 Physics_High_4-1 ICON "SubjectIcons/Physics/4-1.ico"
 Physics_High_4-2 ICON "SubjectIcons/Physics/4-2.ico"
 
+// Chemistry subject icons
+Chemistry_High_1 ICON "SubjectIcons/Chemistry/1.ico"
+Chemistry_High_2 ICON "SubjectIcons/Chemistry/2.ico"
+Chemistry_High_3 ICON "SubjectIcons/Chemistry/3.ico"
+Chemistry_High_3-1 ICON "SubjectIcons/Chemistry/3-1.ico"
+Chemistry_High_3-2 ICON "SubjectIcons/Chemistry/3-2.ico"
+
+// Biology subject icons
 Biology_High_1 ICON "SubjectIcons/Biology/1.ico"
 Biology_High_2 ICON "SubjectIcons/Biology/2.ico"
 Biology_High_3 ICON "SubjectIcons/Biology/3.ico"
