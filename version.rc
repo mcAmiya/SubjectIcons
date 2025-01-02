@@ -16,12 +16,12 @@ BEGIN
             VALUE "Comments",         "A library containing subject icons"
             VALUE "CompanyName",      "Fer"
             VALUE "FileDescription",  "A library containing subject icons"
-            VALUE "FileVersion",      "1.0.0.202501012037"
-            VALUE "InternalName",     "alpha-202501012037"
+            VALUE "FileVersion",      "1.0.0.202501022318"
+            VALUE "InternalName",     "alpha-202501022318"
             VALUE "LegalCopyright",   "Copyright (C) 2025 Fer_Amiya"
             VALUE "OriginalFilename", "SubjectIcons.dll"
             VALUE "ProductName",      "Subject Icons"
-            VALUE "ProductVersion",   "1.0.0.202501012037"
+            VALUE "ProductVersion",   "1.0.0.202501022318"
         END
     END
     BLOCK "VarFileInfo"

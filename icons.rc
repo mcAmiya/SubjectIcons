@@ -1,15 +1,18 @@
+// Chinese subject icons
 Chinese_High_1 ICON "SubjectIcons/Chinese/1.ico"
 Chinese_High_2 ICON "SubjectIcons/Chinese/2.ico"
 Chinese_High_3 ICON "SubjectIcons/Chinese/3.ico"
 Chinese_High_3-1 ICON "SubjectIcons/Chinese/3-1.ico"
 Chinese_High_3-2 ICON "SubjectIcons/Chinese/3-2.ico"
 
+// Math subject icons
 Math_High_1 ICON "SubjectIcons/Math/1.ico"
 Math_High_2 ICON "SubjectIcons/Math/2.ico"
 Math_High_3 ICON "SubjectIcons/Math/3.ico"
 Math_High_3-1 ICON "SubjectIcons/Math/3-1.ico"
 Math_High_3-2 ICON "SubjectIcons/Math/3-2.ico"
 
+// English subject icons
 English_High_1 ICON "SubjectIcons/English/1.ico"
 English_High_2 ICON "SubjectIcons/English/2.ico"
 English_High_3 ICON "SubjectIcons/English/3.ico"
@@ -18,6 +21,7 @@ English_High_4-1 ICON "SubjectIcons/English/4-1.ico"
 English_High_4-2 ICON "SubjectIcons/English/4-2.ico"
 English_High_4-3 ICON "SubjectIcons/English/4-3.ico"
 
+// Physics subject icons
 Physics_High_1 ICON "SubjectIcons/Physics/1.ico"
 Physics_High_2 ICON "SubjectIcons/Physics/2.ico"
 Physics_High_3 ICON "SubjectIcons/Physics/3.ico"
@@ -38,4 +42,3 @@ Biology_High_2 ICON "SubjectIcons/Biology/2.ico"
 Biology_High_3 ICON "SubjectIcons/Biology/3.ico"
 Biology_High_3-1 ICON "SubjectIcons/Biology/3-1.ico"
 Biology_High_3-2 ICON "SubjectIcons/Biology/3-2.ico"
-
